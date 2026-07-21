@@ -8,8 +8,6 @@ function displayItems(){
     var chinese=  document.getElementById('chinese');
     var southIndian=  document.getElementById('south-indian');
 
-    
-
     const biryaniData= foodItem.filter((item)=>item.category=='biryani');
     const chickenData= foodItem.filter((item)=>item.category=='chicken');
     const PaneerData= foodItem.filter((item)=>item.category=='paneer');
