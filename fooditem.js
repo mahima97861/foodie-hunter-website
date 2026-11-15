@@ -402,5 +402,3 @@ const foodItem= [
 ]
 
 export {foodItem};
-
-
